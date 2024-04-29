@@ -2020,8 +2020,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #212529;
-  background-color: #78d5ef;
-  border-color: #78d5ef; }
+  background-color: #fff;
+  border-color: #fff; }
   .btn-primary:hover {
     color: #212529;
     background-color: #56caeb;
@@ -7430,7 +7430,8 @@ h1, h2, h3, h4, h5,
   .ftco-navbar-light .navbar-nav > .nav-item.cta.cta-colored span {
     border-color: #133642; }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-    color: #133642; }
+    text-decoration: underline;
+    color: #fff; }
     .ftco-navbar-light .navbar-nav > .nav-item.active > a:after {
       opacity: 1;
       background: #133642; }
@@ -7723,17 +7724,17 @@ h1, h2, h3, h4, h5,
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background: #133642;
-    border: 1px solid #133642;
+    background: #fff;
+    border: 1px solid #fff;
     color: #000; }
     .btn.btn-primary:hover {
       border: 1px solid #133642;
       background: transparent;
       color: #133642; }
     .btn.btn-primary.btn-outline-primary {
-      border: 1px solid #133642;
+      border: 1px solid #fff;
       background: transparent;
-      color: #133642; }
+      color: #fff; }
       .btn.btn-primary.btn-outline-primary:hover {
         border: 1px solid transparent;
         background: #133642;
