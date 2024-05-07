@@ -56,7 +56,7 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 body {
   margin: 0;
-   font-family: "Josefin Sans", Arial, sans-serif; 
+     font-family: "Cormorant Garamond", serif;
    font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -4494,7 +4494,7 @@ button.close {
   z-index: 1070;
   display: block;
   margin: 0;
-   font-family: "Josefin Sans", Arial, sans-serif; 
+     font-family: "Cormorant Garamond", serif;
    font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -4579,7 +4579,7 @@ button.close {
   z-index: 1060;
   display: block;
   max-width: 276px;
-   font-family: "Josefin Sans", Arial, sans-serif; 
+     font-family: "Cormorant Garamond", serif;
    font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -7268,7 +7268,7 @@ a.text-dark:hover, a.text-dark:focus {
     border: 1px solid #dee2e6 !important; } }
 
 body {
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: "Cormorant Garamond", serif;
 
   font-size: 15px;
   line-height: 1.8;
@@ -7305,7 +7305,7 @@ h1, h2, h3, h4, h5,
   line-height: 1.4;
   color: #fff;
   font-weight: 400;
-  font-family: "Josefin Sans", Arial, sans-serif; }
+    font-family: "Cormorant Garamond", serif;}
 
 .text-primary {
   color: #133642 !important; }
@@ -7325,7 +7325,7 @@ h1, h2, h3, h4, h5,
       top: 0; } }
   .ftco-navbar-light .navbar-brand {
     color: #fff;
-    font-family: "Josefin Sans", Arial, sans-serif; }
+      font-family: "Cormorant Garamond", serif;}
     @media (min-width: 768px) {
       .ftco-navbar-light .navbar-brand {
         color: #fff; } }
@@ -7600,7 +7600,7 @@ h1, h2, h3, h4, h5,
           .owl-carousel.home-slider .slider-item .slider-text {
             text-align: center; } }
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
-           font-family: "Josefin Sans", Arial, sans-serif; 
+             font-family: "Cormorant Garamond", serif;
           font-size: 30px;
           color: #133642; }
         .owl-carousel.home-slider .slider-item .slider-text h1 {
@@ -7781,7 +7781,6 @@ h1, h2, h3, h4, h5,
     padding: 30px; }
     @media (min-width: 1200px) {
       .ftco-intro .wrap .info {
-        width: calc(100% - 35%);
         padding: 2% 5% 2% 12%; } }
     @media (max-width: 767.98px) {
       .ftco-intro .wrap .info {
@@ -8494,7 +8493,7 @@ textarea.form-control {
   text-transform: uppercase;
   letter-spacing: .5em;
   color: #d4d4d4;
-   font-family: "Josefin Sans", Arial, sans-serif; 
+     font-family: "Cormorant Garamond", serif;
    font-weight: 300; }
 
 .ftco-section .ftco-primary-title {
@@ -8620,7 +8619,7 @@ textarea.form-control {
     font-size: 50px;
     display: block;
     margin-bottom: 0;
-     font-family: "Josefin Sans", Arial, sans-serif; 
+       font-family: "Cormorant Garamond", serif;
     color: #133642;
     line-height: 1;
     margin-bottom: -21px;
