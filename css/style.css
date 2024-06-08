@@ -7269,12 +7269,10 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   font-family: "Cormorant Garamond", serif;
-
   font-size: 15px;
   line-height: 1.8;
   font-weight: 300;
   color: gray;
-  background: url(../images/bg_4.jpg) no-repeat fixed;
   background-size: cover; 
 }
 .background-tint {
