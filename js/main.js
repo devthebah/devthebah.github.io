@@ -52,22 +52,22 @@
 	    margin:0,
 	    animateOut: 'fadeOut',
 	    animateIn: 'fadeIn',
-	    nav:false,
 	    autoplayHoverPause: false,
 	    items: 1,
-	    navText : ["<span class='ion-md-arrow-back'></span>","<span class='ion-chevron-right'></span>"],
+		nav: true,
+		navText: ['<span class="ion-ios-arrow-back">', '<span class="ion-ios-arrow-forward">'],
 	    responsive:{
 	      0:{
 	        items:1,
-	        nav:false
+	        nav:true
 	      },
 	      600:{
 	        items:1,
-	        nav:false
+	        nav:true
 	      },
 	      1000:{
 	        items:1,
-	        nav:false
+	        nav:true
 	      }
 	    }
 		});
