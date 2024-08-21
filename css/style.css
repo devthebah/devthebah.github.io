@@ -54,6 +54,14 @@ html {
 article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
+
+
+
+a.btn-home{
+    background-color: #e8c06d!important;
+    color:#000!important;
+    border: 0px!important;
+  }
 body {
   margin: 0;
      font-family: "Cormorant Garamond", serif;
@@ -7309,7 +7317,7 @@ h1, h2, h3, h4, h5,
   color: #133642 !important; }
 
 .ftco-navbar-light {
-  background: transparent !important;
+  background: #000 !important;
   position: absolute;
   top: 0;
   left: 0;
@@ -7347,7 +7355,7 @@ h1, h2, h3, h4, h5,
         padding-right: 20px;
         color: rgba(255, 255, 255, 0.9); } }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover, .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:focus {
-      color: #133642; }
+      color: #fff; }
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover:after, .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:focus:after {
         opacity: 1; }
   .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu {
